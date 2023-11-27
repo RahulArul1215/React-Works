@@ -1,0 +1,6 @@
+.bottom{
+    display: flex;
+    /* position: absolute; */
+    height:60rem;
+    width: 70rem;
+}

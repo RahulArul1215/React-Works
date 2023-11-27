@@ -1,0 +1,28 @@
+.Bod{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    color: aliceblue;
+}
+.click-but{
+    border: none;
+    background-color:rgba(12, 12, 12, 0.09);
+    color: white;
+    font-size: 18px;
+    /* color:blue; */
+    border-bottom: 1px solid red;
+}
+.click-but:hover{
+    color: #ff2400;
+    border-bottom: 1px solid white;
+
+}
+.click-div{
+    color: white;
+    position:absolute;
+    /* top: 50px */
+    top: 55vh;
+
+}

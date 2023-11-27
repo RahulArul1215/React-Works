@@ -1,0 +1,265 @@
+.contain69{
+    /* background-image: url('https://static.zawya.com/view/acePublic/alias/contentid/image.181019064354OIZM/3/181019064354oizm-jpg.webp?f=3%3A2&q=0.75&w=3840'); */
+    background-repeat: no-repeat;
+    height:auto;
+    /* display: flex;
+    position: absolute;
+    justify-content: center; */
+    /* position: absolute; */
+    width: 800px;
+}
+.bottom69{
+    border: 1px solid black;
+    /* background-color:#ed8b8a; */
+    /* height: 55vh; */
+    /* display: flex; */
+    position: absolute;
+    top:72rem;
+    width: 1000px;
+}
+.h169-1{
+    font-size: 65px;
+    display: flex;
+    position: absolute;
+    left: 110px;
+    top: 140px;
+}
+.img69{
+    height: 500px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    /* position: absolute; */
+    /* left: -70px; */
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPjZ9mG-k5ETj68IxnpCtl109LgREe4lTRQ&usqp=CAU'); */
+    background-color: #ed8b8a;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.contain69-2{
+    /* border: 1px solid black; */
+    justify-content: center;
+    height: 29vh;
+    width: 100vw;
+}
+.Arrow69{
+    display: flex;
+    position: absolute;
+    top: 450px;
+}
+.h169-2{
+    font-size: 49px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.para69-1{
+    height: 90px;
+    width: 600px;
+    display: flex;
+    position: absolute;
+    padding: 10px;
+    right: 10px;
+}
+.p69-01{
+    display: flex;
+    position: absolute;
+    top: 130px;
+    right: 200px;
+    left: -800px;
+    font-size: 27px;
+    
+    /* padding: 10px; */
+}
+.chan69{
+    height: 150px;
+    width: 800px;
+    display: flex;
+    position: absolute;
+    left: 600px;
+    justify-content: center;
+}
+.tags69{
+    /* border: 1px solid black; */
+    background-color: #300139;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    height: 60vh;
+    width: 100vw;
+}
+.firtag69-1{
+    /* border: 1px solid rgb(239, 99, 99); */
+    background-color: #d770eb;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    left: 230px;
+}
+.firtag69-2{
+    /* border: 1px solid rgb(239, 99, 99); */
+    background-color: #d770eb;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    /* left: 230px; */
+}
+.firtag69-3{
+    /* border: 1px solid rgb(239, 99, 99); */
+    background-color: #d770eb;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    left: 1275px;
+}
+.img69-1{
+    /* background-image: url('https://www.shutterstock.com/image-vector/balloons-cartoon-style-bunch-red-260nw-2209020675.jpg'); */
+    height: 300px;
+    width: 300px;
+}
+.image69-1{
+    border-radius: none;
+    width: 100px;
+}
+.h369-1{
+    display: flex;
+    justify-content: center;
+    top: 100px;  
+}
+.h369-2{
+    display: flex;
+    justify-content: center;
+    top: 100px;  
+}
+.h369-3{
+    display: flex;
+    justify-content: center;
+    top: 100px;  
+}
+.para69-02{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 230px;
+    font-size: 25px;
+    border-spacing: 3px;
+    padding: 20px;
+}
+.para69-03{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 230px;
+    font-size: 25px;
+    border-spacing: 3px;
+    padding: 20px;
+}
+.para69-04{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    top: 230px;
+    font-size: 25px;
+    border-spacing: 3px;
+    padding: 20px;
+}
+.imgcon69{
+    height: 150px;
+    position:absolute;
+    left: 130px;
+    top: 90px;
+}
+.imgcon69-2{
+    height: 150px;
+    position:absolute;
+    left: 130px;
+    top: 90px;
+}
+.imgcon69-3{
+    height: 150px;
+    position:absolute;
+    left: 130px;
+    top: 90px;
+}
+.anch69-1{
+    display:flex;
+    position: absolute;
+    font-size: 25px;
+    top: 360px;
+    right: 185px;
+}
+.awards-section {
+    /* background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center; */
+    /* background-color: #300139; */
+    border: 1px solid blue;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top:655px;
+    height: 60vh;
+    width: 100vw;
+  }
+  
+  .awards-heading {
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    position: relative;
+    top: -20px;
+    color: #18091b;
+  }
+  
+  .awards-description-1 {
+    font-size: 25px;
+    width: 400px;
+    display: flex;
+    position: absolute;
+    top: 380px;
+    right: 1200px;
+    color: #18091b;
+  }
+  .awards-description-2{
+    font-size: 25px;
+    width: 400px;
+    display: flex;
+    position: absolute;
+    right: 550px;
+    top: 380px;
+    /* right: 1500px; */
+    color: #18091b;
+  }
+.img69-01{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 200px;
+    left: 150px;
+}
+.img69-02{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 200px;
+    right: 650px;
+}
+/* .Button-1:hover{
+    background-color: rgb(86, 86, 234);
+} */
+.Button-1{
+    position: absolute;
+    top: 550px;
+    right: 850px;
+}
+.Button-2{
+    position: absolute;
+    top: 550px;
+    right: 450px;
+}
